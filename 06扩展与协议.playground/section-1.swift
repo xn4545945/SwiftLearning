@@ -2,7 +2,7 @@
 
 import UIKit
 
-//1.扩展 extension(类似OC中的分类, 但Swift中没有名字), 即使在没有权限获取到原始代码的情况下, 为类增加新功能.
+//1.扩展 extension(类似OC中的分类, 但Swift中没有名字), 即在没有权限获取到原始代码的情况下, 为类增加新功能.
 //注意: 只要定义了扩展, 那么该扩展对该类的实例都是可用的.
 /*
 extension SomeType{
@@ -34,7 +34,7 @@ class MyClass{
 extension MyClass{
     convenience init(var parm:Int){   //扩展构造器
         self.init()
-        println("扩展构造器--->遍历构造器, \(parm)")
+        println("扩展构造器--->便利构造器, \(parm)")
     }
 }
 
