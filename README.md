@@ -1,8 +1,6 @@
 SwiftLearning
 =============
-
 my swift code. exercises.
-
 ===============
 
 [http://blog.csdn.net/xn4545945](http://blog.csdn.net/xn4545945)
