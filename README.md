@@ -1,6 +1,6 @@
 SwiftLearning
 =============
-Swift从入门到精通, Swift3.0新特性. 文章教程+实例代码(附详细注释)
+Swift从入门到精通, Swift3.0新特性, iOS版本适配. 文章教程+实例代码(附详细注释)
 
 [http://blog.csdn.net/xn4545945](http://blog.csdn.net/xn4545945)(旧博客)
 [http://blog.xigulu.com](http://blog.xigulu.com)
@@ -16,4 +16,12 @@ Swift从入门到精通, Swift3.0新特性. 文章教程+实例代码(附详细�
 
 Swift3.0新特性
 ==============
- *  [Swift3.0中的新特性](http://blog.csdn.net/xn4545945/article/details/39800061)(实例代码--Swift2vsSwift3.playground)
+ *  [Swift3.0中的新特性](http://blog.xigulu.com/2016/07/08/iOS-Swift3-feature/)
+
+iOS10新特性
+==============
+ *  [iOS10适配问题总结](http://blog.xigulu.com/2016/10/12/iOS10-adapt/)
+
+精品Swift学习资料
+==============
+ *  [最新版The Swift Programming Language](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)(中文版, 且时时更新)
